@@ -1,6 +1,6 @@
 {
-  "name": "whatsapp-api",
-  "version": "1.2.0",
+  "name": "whatsbuddy-api",
+  "version": "1.0.0",
   "description": "Rest api for communication with WhatsApp",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/code-chat-br/whatsapp-api.git"
+    "url": "git+https://github.com/viniVieiraJ/Whats-Buddy"
   },
   "keywords": [
     "chat",
@@ -31,14 +31,14 @@
     "bot"
   ],
   "author": {
-    "name": "jrcleber",
-    "email": "contato@codechat.dev"
+    "name": "buddy",
+    "email": "buddy@mail.com"
   },
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/code-chat-br/whatsapp-api/issues"
+    "url": "https://github.com/viniVieiraJ/Whats-Buddy/issues"
   },
-  "homepage": "https://github.com/code-chat-br/whatsapp-api#readme",
+  "homepage": "https://github.com/viniVieiraJ/Whats-Buddy#readme",
   "dependencies": {
     "@codechat/base": "github:code-chat-br/codechat",
     "@hapi/boom": "^10.0.1",
@@ -64,6 +64,7 @@
     "qrcode": "^1.5.1",
     "qrcode-terminal": "^0.12.0",
     "redis": "^4.6.5",
+    "ts-node": "^10.9.1",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
