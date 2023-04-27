@@ -4,7 +4,8 @@
   "description": "Rest api for communication with WhatsApp",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
+    "heroku-postbuild": "tsc && npm run build",
+    "build": "webpack",
     "start": "ts-node --files --transpile-only ./src/main.ts",
     "start:prod": "bash start.sh",
     "start:dev": "clear && tsnd --files --transpile-only --respawn --ignore-watch node_modules ./src/main.ts",
