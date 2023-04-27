@@ -39,7 +39,6 @@
     "url": "https://github.com/viniVieiraJ/Whats-Buddy/issues"
   },
   "homepage": "https://github.com/viniVieiraJ/Whats-Buddy#readme",
-  "type": "module",
   "dependencies": {
     "@codechat/base": "github:code-chat-br/codechat",
     "@hapi/boom": "^10.0.1",
