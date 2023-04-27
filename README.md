@@ -1,3 +1,4 @@
+# Whats-Buddy
 <h1 align="center">CodeChat Api Pro</h1>
 
 It is a version of this API with advanced features like message queue management, send processing status, integration with **[n8n](https://github.com/code-chat-br/n8n-nodes-codechat)** unique models and much more! **[Check it out](https://github.com/code-chat-br/docs-codechat)** 😉!
@@ -21,6 +22,7 @@ It is a version of this API with advanced features like message queue management
 
 </div>
   
+
 <div align="center"><img src="./public/images/cover.png"></div>
 
 ## WhatsApp-Api-NodeJs
