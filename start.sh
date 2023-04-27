@@ -21,4 +21,4 @@ echo
 echo "> Starting application..."
 echo
 
-node ./src/main.js
+node ./src/main.ts
