@@ -8,4 +8,4 @@ echo
 echo "> Starting application..."
 echo
 
-ts-node --files --transpile-only ./src/main.ts
+ts-node --files --transpile-only ./src/main.js
